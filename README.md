@@ -33,5 +33,5 @@ Sur Ubuntu récent, il faut parfois installer `libfuse2`.
 
 ## Licence
 
-Copyright (c) 2026 [VOTRE NOM]. Tous droits réservés. Le logiciel peut être installé et utilisé tel quel ; toute autre utilisation
+Copyright (c) 2026 Clément Martin. Tous droits réservés. Le logiciel peut être installé et utilisé tel quel ; toute autre utilisation
 nécessite l'accord écrit de l'auteur. Ce dépôt ne contient que les installeurs.
